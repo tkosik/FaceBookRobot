@@ -1,0 +1,4 @@
+TEMAT=RazDwa
+CENA=200
+TEKST=TomaszKosik123213
+STOPKA=DziekujeTomasz
